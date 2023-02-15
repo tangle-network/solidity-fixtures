@@ -1,5 +1,5 @@
 outs:
-- md5: 13f76533da200e7a4322bf7d114ee0ad.dir
-  size: 6933474247
-  nfiles: 225
+- md5: a420a1fcf9528c4536d9f3ec115de9d6.dir
+  size: 6800062135
+  nfiles: 216
   path: solidity-fixtures
