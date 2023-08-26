@@ -1,4 +1,6 @@
 [core]
-    remote = solidity-fixtures
-['remote "solidity-fixtures"']
+    remote = s3-read
+['remote "s3-read"']
+    url = https://protocol-solidity-fixtures.s3.amazonaws.com/solidity-fixtures/
+['remote "s3-read-write"']
     url = s3://protocol-solidity-fixtures/solidity-fixtures/
