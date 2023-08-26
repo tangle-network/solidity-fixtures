@@ -15,5 +15,5 @@ After generating new fixtures (likely from `protocol-solidity`), you should run 
 dvc add solidity-fixtures
 git add -A
 git commit
-dvc push --remote aws # This should be done after a PR merge by the creator of the fixtures
+dvc push --remote s3-read-write # This should be done after a PR merge by the creator of the fixtures
 ```
